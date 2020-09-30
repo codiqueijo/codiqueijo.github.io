@@ -130,7 +130,7 @@ defaults:
       location: Tag
       breadcrumb:
         -
-          label: Home
+          label: Notícias
           url: /
         -
           label: Tags
@@ -143,7 +143,7 @@ defaults:
       location: Category
       breadcrumb:
         -
-          label: Home
+          label: Notícias
           url: /
         -
           label: Categorias
@@ -156,7 +156,7 @@ defaults:
       dynamic_title: true    # Hide title in mobile screens.
       breadcrumb:
         -
-          label: Home
+          label: Notícias
           url: /
 
 
