@@ -1,5 +1,5 @@
 ---
-title: About
+title: Sobre
 
 # The About page
 # v2.0
@@ -8,4 +8,10 @@ title: About
 # MIT License
 ---
 
-> **Note**: Add Markdown syntax content to file `tabs/about.md` and it will show up on this page.
+O CodiQueijo foi criado para facilitar a interação entre quem programa, principalmente no mundo do open source.
+
+![Alt Text](https://media.giphy.com/media/aNqEFrYVnsS52/giphy.gif)
+
+Não toleramos nenhum tipo de preconceito, apenas gentileza, sensatez e bom humor!
+
+Se junte a gente no [Discord]({{ site.discord.url }})!

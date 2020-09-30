@@ -26,7 +26,7 @@ github:
   username: codiqueijo             # change to your github username
 
 discord:
-  url: https://discord.gg/jqwwWa7            # change to your twitter username
+  url: https://discord.gg/SWynQmb            # change to your twitter username
 
 social:
   name: Codiqueijo                  # it will shows as the copyright owner in Footer
@@ -115,7 +115,7 @@ defaults:
       location: Post
       breadcrumb:
         -
-          label: Posts
+          label: Notícias
           url: /
   -
     scope:
