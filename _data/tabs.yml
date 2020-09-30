@@ -19,7 +19,7 @@
   path: tabs
   url: tags
 -
-  name: "Archives"
+  name: "Arquivos"
   path: tabs
   url: archives
   icon: "fas fa-archive"
