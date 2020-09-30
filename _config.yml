@@ -107,7 +107,7 @@ defaults:
   -
     scope:
       path: ""          # An empty string here means all files in the project
-      type: posts
+      type: page
     values:
       layout: post
       comments: true    # Enable comments in posts.
@@ -115,7 +115,7 @@ defaults:
       location: Post
       breadcrumb:
         -
-          label: Notícias
+          label: Home
           url: /
   -
     scope:
@@ -130,7 +130,7 @@ defaults:
       location: Tag
       breadcrumb:
         -
-          label: Notícias
+          label: Home
           url: /
         -
           label: Tags
@@ -143,7 +143,7 @@ defaults:
       location: Category
       breadcrumb:
         -
-          label: Notícias
+          label: Home
           url: /
         -
           label: Categorias
@@ -156,7 +156,7 @@ defaults:
       dynamic_title: true    # Hide title in mobile screens.
       breadcrumb:
         -
-          label: Notícias
+          label: Home
           url: /
 
 

@@ -6,23 +6,11 @@
 
 
 -
-  name: Notícias
-  icon: "fas fa-home"
--
-  name: Categorias
-  icon: "fas fa-stream"
+  name: "Recursos"
+  icon: "fas fa-info"
   path: tabs
-  url: categories
--
-  name: "Tags"
-  icon: "fas fa-tags"
-  path: tabs
-  url: tags
--
-  name: "Arquivos"
-  path: tabs
-  url: archives
-  icon: "fas fa-archive"
+  url: resources
+
 -
   name: "Sobre"
   icon: "fas fa-info"

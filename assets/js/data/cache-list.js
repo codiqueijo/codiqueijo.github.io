@@ -32,7 +32,7 @@ const include = [
   /* Tabs */
   {% for tab in site.data.tabs %}
     {% capture item %}
-      {%- unless tab.name == 'Notícias' -%}
+      {%- unless tab.name == 'Home' -%}
         /tabs/{{ tab.name | downcase }}
       {%- endunless -%}
       {{- "/" -}}
